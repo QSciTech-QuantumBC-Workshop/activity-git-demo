@@ -9,3 +9,4 @@ if __name__ == '__main__':
     result = plus_state_measure()
     print(result)
 
+    print('done!')
